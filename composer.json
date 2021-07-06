@@ -5,5 +5,12 @@
     "psr-4": {
       "Romano1996\\Formulize\\": "src/"
     }
+  },
+  "autoload-dev": {
+    "Romano1996\\Formulize\\tests": "tests/"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5",
+    "johnkary/phpunit-speedtrap": "^4.0"
   }
 }

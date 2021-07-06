@@ -3,3 +3,7 @@ vendor/
 
 # IDE's
 .idea/
+
+# Phpunit
+
+.phpunit.result.cache
