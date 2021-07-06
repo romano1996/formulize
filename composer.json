@@ -1,0 +1,9 @@
+{
+  "name": "romano1996/formulize",
+  "description": "PHP Package for dynamic form generation.",
+  "autoload": {
+    "psr-4": {
+      "Romano1996\\Formulize\\": "src/"
+    }
+  }
+}
